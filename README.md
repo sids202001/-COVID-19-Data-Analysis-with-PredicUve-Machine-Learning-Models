@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves analyzing and predicting various COVID-19 metrics using a comprehensive dataset. Our primary focus is on confirmed cases, deaths, and recovery rates across different countries and regions, utilizing advanced data science techniques and machine learning models to provide insights and forecasts.
+This project involves analyzing and predicting various COVID-19 metrics using a comprehensive dataset. The primary focus was on confirmed cases, deaths, and recovery rates across different countries and regions, utilizing advanced data science techniques and machine learning models to provide insights and forecasts.
 
 ## Features of the Project
 
@@ -13,14 +13,14 @@ This project involves analyzing and predicting various COVID-19 metrics using a 
   - Managing data types
 
 ### Exploratory Data Analysis (EDA)
-- Perform an in-depth analysis using statistical summaries and visualizations to understand the distribution and correlation of data, focusing on COVID-19 metrics like confirmed cases, deaths, and recoveries.
+- Performed an in-depth analysis using statistical summaries and visualizations to understand the distribution and correlation of data, focusing on COVID-19 metrics like confirmed cases, deaths, and recoveries.
 
 ### Statistical Analysis
-- Calculate basic statistics such as mean, median, mode, and standard deviation.
+- Calculated basic statistics such as mean, median, mode, and standard deviation.
 - Compute more complex indicators like death and recovery rates.
 
 ### Data Visualization
-- Utilize **Matplotlib**, **Seaborn**, and **Plotly** to create a variety of charts, including:
+- Utilized **Matplotlib**, **Seaborn**, and **Plotly** to create a variety of charts, including:
   - Histograms
   - Bar charts
   - Box plots
@@ -28,9 +28,9 @@ This project involves analyzing and predicting various COVID-19 metrics using a 
   - Choropleth maps
 
 ### Predictive Modeling
-- Use machine learning models like **Random Forest**, **Gradient Boosting**, and **XGBoost** to predict COVID-19 outcomes based on historical data.
-- Perform hyperparameter tuning to optimize models and evaluate their performance using metrics such as Mean Squared Error (MSE) and R-squared.
-- Conduct binary classification to categorize data based on specified thresholds.
+- Used machine learning models like **Random Forest**, **Gradient Boosting**, and **XGBoost** to predict COVID-19 outcomes based on historical data.
+- Performed hyperparameter tuning to optimize models and evaluate their performance using metrics such as Mean Squared Error (MSE) and R-squared.
+- Conducted binary classification to categorize data based on specified thresholds.
 
 ### Model Evaluation
 - Assess the accuracy and efficiency of the predictive models and visualize the relationship between actual and predicted values.
